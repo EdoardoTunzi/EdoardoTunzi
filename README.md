@@ -1,12 +1,7 @@
-## Hi there 👋
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=EdoardoTunzi)](https://github.com/FajarKim/github-readme-profile)
-
 <h1 align="center">Hi 👋, I'm Edoardo Tunzi</h1>
 <h3 align="center">A passionate front-end developer from Italy 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardotunzi&label=Profile%20views&color=0e75b6&style=flat" alt="edoardotunzi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edoardotunzi" alt="edoardotunzi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
