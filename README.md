@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=EdoardoTunzi)](https://github.com/FajarKim/github-readme-profile)
 <!--
 **EdoardoTunzi/EdoardoTunzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
