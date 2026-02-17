@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://edoardotunzi-dev.vercel.app/]" target="_blank" rel="noreferrer"> </a>
+  <a href="https://edoardotunzi-dev.vercel.app/" target="_blank" rel="noreferrer">
+    🌐 Portfolio
+  </a>
 </p>
 
 ## 🚀 Tech I Use Daily
